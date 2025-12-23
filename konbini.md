@@ -27,8 +27,6 @@ Tokyo Wasser schmeckt immer krass nach Kloschüssel, also haben wir fast immer d
 
 Auch was die Spaßgetränke angeht, sind Konbinis absolut stabil. Alle bekannten Bierchenmarken und einige Mixgetränke sind immer am Start. Auch hier wird das Durchprobieren sehr empfohlen. Ein Drink, der auch sehr prominent in japanischer Popkultur geworden ist, ist Strong Zero. Schmeckt wie ein Zitronen-Softdrink und ist bekannt dafür, Leute schnell besoffen zu machen (sind aber auch nur 9%).
 
-![Strong Zero](pics/strong-zero.jpg)
-
 Ein weiterer Geheimtip ist der gute alte One Cup Sake. 200 ml Sake für 80 Cent und ich lüge nicht, wenn ich sage, der schmeckt besser als jeder Sake, den ich in Deutschland hatte. Die Menge an Dingen, die ich von denen entleert habe, war echt gefährlich.
 
 ![Sake](pics/Sake.jpg)
