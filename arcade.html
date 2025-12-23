@@ -2,31 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Food – Japan Travel Guide</title>
+    <title>Arcade – Japan Travel Guide</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-<input type="checkbox" id="menu-toggle">
-
-<label for="menu-toggle" class="menu-btn">☰</label>
 
 <div class="layout">
 
     <nav class="sidebar">
         <h2>Guide</h2>
         <a href="index.html">🏠 Home</a>
-        <a href="food.html" class="active">🍣 Food</a>
+        <a href="food.html">🍣 Food</a>
         <a href="sehenswürdigkeiten.html">🏯 Sehenswertes</a>
         <a href="stadtteile.html">🌃 Stadtteile</a>
         <a href="konbini.html">🏬 Konbini Guide</a>
-        <a href="arcade.html">🎮 Arcade Guide</a>
+        <a href="arcade.html" class="active">🎮 Arcade Guide</a>
         <a href="tips.html">💡 Tips</a>
     </nav>
 
-
-    <main class="content">
-        <div id="food-content">Loading...</div>
+        <main class="content">
+        <div id="arcade-content">Loading...</div>
     </main>
 
 </div>
@@ -34,7 +29,7 @@
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script src="script.js"></script>
 <script>
-    loadMarkdown("food.md", "food-content");
+    loadMarkdown("arcade.md", "arcade-content");
 </script>
 
 </body>

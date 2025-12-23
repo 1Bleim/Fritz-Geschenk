@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Food – Japan Travel Guide</title>
+    <title>Konbini – Japan Travel Guide</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
 <div class="layout">
@@ -14,25 +15,23 @@
         <a href="index.html">🏠 Home</a>
         <a href="food.html">🍣 Food</a>
         <a href="sehenswürdigkeiten.html">🏯 Sehenswertes</a>
-        <a href="stadtteile.html">🌃 Stadtteile</a>
+        <a href="stadtteile.html" class="active">🌃 Stadtteile</a>
         <a href="konbini.html">🏬 Konbini Guide</a>
         <a href="arcade.html">🎮 Arcade Guide</a>
-        <a href="tips.html" class="active">💡 Tips</a>
+        <a href="tips.html">💡 Tips</a>
     </nav>
 
     <main class="content">
-        <h1>Food in Tokyo 🍜</h1>
-
-        <p>Some personal recommendations:</p>
-
-        <ul>
-            <li><strong>Ramen:</strong> Ichiran, Afuri</li>
-            <li><strong>Sushi:</strong> Conveyor belt sushi for fun & value</li>
-            <li><strong>Convenience stores:</strong> Don’t underestimate 7-Eleven</li>
-        </ul>
+        <div id="stadtteile-content">Loading...</div>
     </main>
 
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="script.js"></script>
+<script>
+    loadMarkdown("stadtteile.md", "stadtteile-content");
+</script>
 
 </body>
 </html>

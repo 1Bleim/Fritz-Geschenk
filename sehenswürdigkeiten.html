@@ -14,24 +14,23 @@
         <a href="index.html">🏠 Home</a>
         <a href="food.html">🍣 Food</a>
         <a href="sehenswürdigkeiten.html" class="active">🏯 Sehenswertes</a>
-        <a href="2.html">🚆 Transport</a>
-        <a href="1.html">🛍 Shopping</a>
+        <a href="stadtteile.html">🌃 Stadtteile</a>
+        <a href="konbini.html">🏬 Konbini Guide</a>
+        <a href="arcade.html">🎮 Arcade Guide</a>
         <a href="tips.html">💡 Tips</a>
     </nav>
 
-    <main class="content">
-        <h1>Food in Tokyo 🍜</h1>
-
-        <p>Some personal recommendations:</p>
-
-        <ul>
-            <li><strong>Ramen:</strong> Ichiran, Afuri</li>
-            <li><strong>Sushi:</strong> Conveyor belt sushi for fun & value</li>
-            <li><strong>Convenience stores:</strong> Don’t underestimate 7-Eleven</li>
-        </ul>
+        <main class="content">
+        <div id="sehenswürdigkeiten-content">Loading...</div>
     </main>
 
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="script.js"></script>
+<script>
+    loadMarkdown("sehenswürdiges.md", "sehenswürdigkeiten-content");
+</script>
 
 </body>
 </html>
