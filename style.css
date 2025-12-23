@@ -1,4 +1,6 @@
-/* RESET */
+/* =========================
+   RESET & BASE
+========================= */
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +8,13 @@
     font-family: Arial, sans-serif;
 }
 
-/* LANDING PAGE */
+html {
+    font-size: 16px;
+}
+
+/* =========================
+   LANDING PAGE
+========================= */
 body.landing {
     text-align: center;
     background: #f5f5f5;
@@ -38,7 +46,7 @@ header p {
     text-decoration: none;
     color: black;
     border-radius: 10px;
-    transition: 0.2s;
+    transition: background 0.2s, color 0.2s;
 }
 
 .card:hover {
@@ -46,13 +54,18 @@ header p {
     color: white;
 }
 
-/* SUBPAGE LAYOUT */
+/* =========================
+   LAYOUT
+========================= */
 .layout {
     display: flex;
     min-height: 100vh;
+    background: #fafafa;
 }
 
-/* SIDEBAR */
+/* =========================
+   SIDEBAR
+========================= */
 .sidebar {
     width: 220px;
     background: #111;
@@ -76,46 +89,61 @@ header p {
     color: #e60012;
 }
 
-/* CONTENT */
+/* =========================
+   CONTENT (Markdown)
+========================= */
 .content {
     flex: 1;
     padding: 40px;
-    background: #fafafa;
 }
 
-.content h1 {
-    margin-bottom: 20px;
-}
-
-.content ul {
-    margin-top: 15px;
-}
-
-.content li {
+/* Headings */
+.content h1,
+.content h2,
+.content h3 {
+    margin-top: 30px;
     margin-bottom: 10px;
 }
 
-/* HAMBURGER BUTTON */
-.menu-btn {
-    display: none;
-    position: fixed;
-    top: 15px;
-    left: 15px;
-    font-size: 2rem;
-    background: #111;
-    color: white;
-    padding: 5px 12px;
-    border-radius: 5px;
-    cursor: pointer;
-    z-index: 1000;
+/* Text */
+.content p {
+    line-height: 1.6;
+    margin-bottom: 15px;
 }
 
-/* HIDE CHECKBOX */
+.content ul {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.content li {
+    margin-bottom: 8px;
+}
+
+/* Blockquotes */
+.content blockquote {
+    border-left: 4px solid #e60012;
+    padding-left: 15px;
+    color: #555;
+    margin: 20px 0;
+}
+
+/* Images (Markdown) */
+.content img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+/* =========================
+   HAMBURGER MENU
+========================= */
 #menu-toggle {
     display: none;
 }
 
-/* HAMBURGER BUTTON */
 .menu-btn {
     display: none;
     position: fixed;
@@ -127,62 +155,70 @@ header p {
     padding: 6px 12px;
     border-radius: 6px;
     cursor: pointer;
-    z-index: 1001;
+    z-index: 2000;
 }
 
-/* MOBILE */
+/* =========================
+   MOBILE STYLES
+========================= */
 @media (max-width: 768px) {
 
+    /* Show hamburger */
     .menu-btn {
         display: block;
     }
 
+    /* Sidebar hidden by default */
     .sidebar {
         position: fixed;
         top: 0;
         left: -240px;
-        width: 220px;
         height: 100%;
+        width: 220px;
         transition: left 0.3s ease;
-        z-index: 1000;
+        z-index: 1500;
     }
 
-    /* THIS IS THE KEY LINE */
+    /* Sidebar visible when toggled */
     #menu-toggle:checked ~ .layout .sidebar {
         left: 0;
     }
 
+    /* Content spacing */
     .content {
         padding: 80px 20px;
     }
-}
-.content h1, 
-.content h2, 
-.content h3 {
-    margin-top: 30px;
-    margin-bottom: 10px;
+
+    /* Mobile typography */
+    body {
+        font-size: 18px;
+    }
+
+    .content h1 {
+        font-size: 1.8rem;
+    }
+
+    .content h2 {
+        font-size: 1.4rem;
+    }
+
+    .content p,
+    .content li {
+        font-size: 1.05rem;
+        line-height: 1.7;
+    }
+
+    /* Mobile images */
+    .content img {
+        max-width: 90%;
+    }
 }
 
-.content p {
-    line-height: 1.6;
-    margin-bottom: 15px;
-}
-
-.content ul {
-    margin-left: 20px;
-    margin-bottom: 15px;
-}
-
-.content blockquote {
-    border-left: 4px solid #e60012;
-    padding-left: 15px;
-    color: #555;
-    margin: 20px 0;
-}
-
+/* =========================
+   DESKTOP IMAGE LIMIT
+========================= */
 @media (min-width: 1024px) {
     .content img {
         max-width: 400px;
     }
 }
-
