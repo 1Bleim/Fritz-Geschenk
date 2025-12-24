@@ -1,23 +1,26 @@
 # Stadtteile
 Wie so viele Großstädte hat auch Tokyo eine große Vielfalt an Stadtteilen, die alle ihren eigenen Charme mit sich bringen. Hier ein Paar, die wir aktiver mitbekommen haben.
 
-## Shibuya & Shinjuku
+## Shibuya & Shinjuku - Westen 
 Das sind wahrscheinlich die beiden bekanntesten Viertel und ich finde, beide haben einen sehr ähnlichen Vibe. Gute Mischung aus Shopping, Nachtleben, Entertainment und jungen Leuten. In Shinjuku gibt es auch die bekannte Golden Gai, die ein Labyrinth aus ganz vielen kleinen Gassen mit Bars ist. Die Bars sind auch sehr winzig, weswegen oft maximal 10 Leute reinpassen, aber alleine mal durchzulaufen lohnt sich. Wir hatten mit unserer 5er-Gruppe keinen Erfolg, aber eine Straße weiter gibt's eine Bar, in der wir auch einen richtig witzigen Abend hatten. Der Besitzer spricht auch gutes Englisch, also wenn ihr mal gepflegt einen heben wollt, kann ich [hier](https://maps.app.goo.gl/QrmT8fiec86J4wAT9) empfehlen.
 
 ![Shi](pics/shi.jpg)
 ![Shi](pics/shi2.jpg)
 
-## Asakusa
+## Asakusa - Nord-Osten
 Asakusa ist das bekannteste Viertel, wenn es um Tradition und Kultur geht. Hier findet man viele alte und historische Gebäude. Leider haben wir es immer ’n bisschen vermasselt, die Museen auszusehnen, aber hier findest du z. B. das Nationalmuseum, das bestimmt einen Besuch wert ist. Es gibt auch so shopping Straßen wo du traditionelle Gegenstände und Essen kaufen kannst, das ganze wirkt aber immer sehr Touristisch, würde ich also eher von abraten. Diese Hauptrinne, die direkt zum Schrein führt, wirkte auf mich immer sehr nach Scam. Es gibt aber auch hier guten stuff, zum Beispiel den bomben Melon Pan Stand, der lohnt sich auf jeden Fall und es gab viele shops für die Matcha Baddies.
 
 ![Asakusa](pics/Asakusa.jpg)
 
-## Akihabara
+## Akihabara - Zentral
 Der Freak District. Hier ist das Paradies für alles, was Anime, Manga und Retro-Stuff angeht. Es gibt Dutzende Läden mit den niedrigsten Merch-Artikeln, die man sich ausdenken kann, über zig Stockwerke verteilt. Wir hatten hier eine unserer 4 Butzen und man kann mit Sicherheit gut mal nen Tag hier verbringen.
 
 ![Akihabara](pics/akiha.jpg)
 
-## Shimokitazawa
+## Ueno - Zentral 
+Ueno war bei uns irgendwie oft auf dem Weg und wir sind ein paar mal in der Ecke unterwegs gewesen. Der Ueno Tempel ist krass drippy und der Ueno Open-Air Market ist echt nett zum entlang schlendern (siehe Food section Takoyaki). Lars meinte auch er findet Ueno sehr underrated. 
+
+## Shimokitazawa - Westen
 Einer der Tage, die mir am besten in Erinnerung geblieben ist, war unser Trip nach Shimokitazawa. Wir wollten unbedingt hierher, weil einer unserer Lieblingsanime hier spielt: Bocchi the Rock. Wenn du ihn noch nicht gesehen hast, umbedingt vor oder in Japan nachholen. 12 Folgen absolute Cinema. Es gibt sehr viele ikonische Locations, die man aus der Serie da wieder sehen kann. Ich und die Bois haben auch ’ne kleine Bocchi-Fotoserie gemacht. Hier ist eine [Map](https://www.google.com/maps/d/u/0/viewer?mid=13Y5dIrkTTCOC4w553tgFJjVjgoubso8&g_ep=CAISBjYuNTEuNhgAIN1iQgJTRw%3D%3D&g_st=ic&ll=35.66271314876967%2C139.66810572384514&z=18) mit Referenzbildern, falls ihr auch ein paar sehen wollt. Abgesehen davon hat Shimokitazawa mir aber auch generell extremst gut gefallen. Viele süße kleine Läden, viele Second Hand Shops, Cafés, Bars, etc. Generell hat es mehr so nen jungen alternativen Studenten-Vibe. Sehr empfehlenswert hier nen Tag zu verbringen. Hier gibt es auch ein [Café](https://maps.app.goo.gl/3NmYA2zdMrKv4MTm8), das ich unbedingt wollte, das aber an dem Tag schnell ausverkauft war (idk maybe kann man da reservieren oder so). Vielleicht habt ihr ja Glück.
 
 ![Shimokita](pics/kita1.jpg)
@@ -25,3 +28,17 @@ Einer der Tage, die mir am besten in Erinnerung geblieben ist, war unser Trip na
 ![Shimokita](pics/kita3.jpg)
 ![Shimokita](pics/kita5.jpg)
 ![Shimokita](pics/kita4.jpg)
+
+## Minato - Süden
+Minato ist der Stadtteil mit dem Tokyo Tower. Wir hatten hier auch ne Butze, empfehlenswert ist die Area aber nicht so richtig. Rund um den Tower gibt es ein paar nette Parks, aber sonst gibt es nicht viel zu sehen. Viele Businesses und Offices. Der einzige gute Grund hier hin zu kommen ist für den Udon Laden. 
+
+## Ikebukuro - Nord-Westen 
+Eigentlich auch funny. Der Stadtteil ist durch die Bahnstation zweigeteilt und man kommt quasi nur durch die Station zur anderen Seite. Wir hatten im Westen eine unserer Buden und sind da nachts schon einigen interessanten Gestalten begegnet. Der Westen gilt auch eher als shady, im Osten hingegen ist man für Shopping und Entertainment ganz gut aufgehoben. Wir haben n paar coole Arcades gehabt, es gibt ne riesige Mall (Sunshine City) die alles hat was man braucht, inklusive risigem Pokemon Center und Aquarium im top floor. Kein Muss aber irgendwie mochte ich es hier. 
+
+## Nakano - West 
+![Nakano Broadway](pics/Nakano.jpg)
+
+Nakano ist am besten bekannt für den Nakano Broadway. Das ist wie ein kleines einkaufzentrum, dass aber nicht so krass neu und fancy ist, sondern eher so wirkt also wäre es aus einem anderen Jahrzehnt. Die hälfte der Läden waren auch irgendwie zu und teilweise hat man sich gefühlt wie in so nem Lost Place wo man eigentlich nicht sein sollte. Sehr viel Weeb und Nerd kram aber ich hatte ne richtig gute Zeit hier beim durchstöbern. Rundherum gab es auch richtig gutes Essen. Da es etwas außerhalb liegt wirkt alles n bisschen authentischer und nicht so touristisch. Von Nakano selbst haben wir nicht viel gesehen, aber der Broadway könnte n Besuch wert sein. 
+
+## Uncharted Tokyo
+Die beste Quelle für Informationen beim Reisen ist ja bekanntlich wie immer Reddit. Man kann sich darauf verlassen das irgendjemand viel zu viel Zeit und Liebe in einen viel zu detalierten Guide seiner Lieblingsstadt steckt. Auf Tokyo trifft das logischerweise auch zu. In [Uncharted Tokyo](https://docs.google.com/document/d/1wjqJKYEKbHSUTsj8Lxj8OCn0gSOXOpf_SroyBEjLbKY/edit?usp=sharing) kriegst du über 80 Seiten alle Fragen beantwortet und mehr. Wenn man noch Ideen für Orte und Unternehmungen braucht, kannst du hier gut nachschlagen. 

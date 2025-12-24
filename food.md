@@ -8,6 +8,8 @@ Gibt es eine Schlange vor dem Laden? Dann lohnt es sich wahrscheinlich zu warten
 
 Wenn's wer weiß, dann die Office Worker. Gerade um Mittag rum suchen sich die Office-Atzen ihr Mittagessen, oft in sogenannten "Teishokus" (Essenshäuser). Da findet man meist "schnelles, einfaches und günstiges" Essen, aber teilweise die göttlichsten Mahlzeiten, die wir hatten. Die sind auch oft die wenigen Ausnahmen, wo du mehr als nur ein Menüitem hast. Eines meiner Lieblingsgerichte war ein Gyoza Meal Set in irgendeinem random Schuppen. Gänsehaut.
 
+Je schwieriger es ist den Laden zu finden desto besser wird er sein. Große Läden die auf Englisch oder mit großen Reklamen werben sind den Hinterecken Holzhütten die von irgendwelchen 80 jährigen Omi's und Opi's betrieben werden um Meilen unterlegen. Je nieschiger und versteckter, desto besser. 
+
 Google Maps Pro Tip: Wenn ihr nach Restaurants sucht, zum Beispiel einem Ramen-Restaurant, sucht auf Google Maps mit den japanischen Schriftzeichen (z.B. ラーメン), da viele Läden (vor allem die Alten und Traditionellen) mit Romanji nicht aufgeführt werden. Die Japaner sind auch oft härter, was Bewertungen angeht. In Japan sind 3 Sterne ein gutes Rating, und alles über ner 4 wird fast garantiert scheppern.
 
 ## Gyudon: Die Big Three
@@ -59,4 +61,5 @@ Bevor du Japan verlässt, solltest du diese Liste einmal abgearbeitet haben:
  - Curry - Japanisches Curry hittet einfach anders. Klassisch mit Reis, Curry Udon, Katsu Curry, Curry Pan, die Optionen sind vielseitig und alle scheppern.
  - Omurice - Omelett mit gebratenem Reis und nem köstlichen Sößchen. Absolut oberköstlich.
  - Famichiki - Es ist schwierig, in Worte zu fassen, warum ein Stück Hühnchen aus einer Konbini-Auslage ein Muss ist, aber du wirst es verstehen, wenn du es probierst.
+ - Okonomiyaki - Herzhafter Pfannkuchen mit Kohl. Muss man sich oft selbst grillen im Laden, macht aber echt bock und war Lars Favorit
 
